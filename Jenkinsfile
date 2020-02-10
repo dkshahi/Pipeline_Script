@@ -7,7 +7,7 @@ pipeline {
                         label "master"
                 }
             steps {
-                        echo 'This stae will be executed first'
+                        echo 'This stage will be executed first'
                 }
             }
     
